@@ -1,0 +1,21 @@
+1. take pic of company name
+
+2. take pic of reg no
+
+3. take pic of container n o
+
+4. take pic of iso
+
+5 take pic of seal
+
+6 take pic of trailer no
+
+last question is the contrainer full or empty yes no
+
+
+INSERT INTO scandata (companyname,regno,trailerno,containerno,isocode,sealno,loadstatus,scandate,
+scantime,isscan,userid) VALUES ('12','12',
+					'12','12','12','12','12','12','12','12')
+ https://www.fredasongdrechsler.com/python-code/fama-french
+
++7(8202)157327
